@@ -1,0 +1,5 @@
+This is a simple application that demonstrates the use of a Redpark serial cable to receive NMEA-formatted waypoints and display them on a map. It has been tested with the serial output of a Yaesu VX-8GE (European version of the VX-8GR), but should also work with Kenwood transceivers (TH-D7A/E, TH-D72A/E, TM-D710A/E).
+
+To compile, download and extract the Redpark SDK in this folder.
+
+73 de SV1OAN
